@@ -1,7 +1,7 @@
 IR Recv LinkIt ONE
 ---------------------------------------------------------
 
-[![Grove - Infrared Receiver](http://www.seeedstudio.com/depot/images/product/grerec1.jpg)](http://www.seeedstudio.com/depot/grove-infrared-receiver-p-994.html?cPath=19_23)
+[![Grove - Infrared Receiver](https://statics3.seeedstudio.com/images/101020016%201.jpg)](http://www.seeedstudio.com/depot/grove-infrared-receiver-p-994.html?cPath=19_23)
 
 The Infrared Receiver is used to receive infrared signals and also used for remote control detection. There is a IR detector on the Infrared Receiver which is used to get the infrared light emitted by the Infrared Emitter. The IR detector have a demodulator inside that looks for modulated IR at 38 KHz. The Infrared Receiver can receive signals well within 10 meters. If more than 10 meters , the receiver may not get the signals. We often use the two Twigs-the Infrared Receiver and the Infrared Emitter to work together.
 
